@@ -4,7 +4,7 @@
 
 Read more about AIDungeon2 and how it was built [here](https://pcc.cs.byu.edu/2019/11/21/ai-dungeon-2-creating-infinitely-generated-text-adventures-with-deep-learning-language-models/).
 
-Play the Taboo mod in Colab [here](https://github.com/JonathanFly/AIDungeon/blob/taboo_dungeon/PlayTabooDungeon.ipynb).
+Play the Taboo mod in Colab [here](https://gist.github.com/JonathanFly/1d1cd3127e50490b1731c04294f1883f#file-playtaboodungeon-ipynb).
 
 To play the game locally, it is recommended that you have an nVidia GPU with 12 GB or more of memory, and CUDA installed. If you do not have such a GPU, each turn can take a couple of minutes or more for the game to compose its response. To install and play locally:
 ```
