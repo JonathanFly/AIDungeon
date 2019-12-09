@@ -1,11 +1,10 @@
 # AIDungeon2: Taboo Special Edition
 
-## The model for AI Dungeon2 is temporarily unavailable to download due to cost. We're working on a solution!
 ## The model works now, you can run this with bittorrent (a bit slow) or you can copy the model file to your own Google Drive (recommended) 
 
 Read more about AIDungeon2 and how it was built [here](https://pcc.cs.byu.edu/2019/11/21/ai-dungeon-2-creating-infinitely-generated-text-adventures-with-deep-learning-language-models/).
 
-Play the game in Colab [here](http://www.aidungeon.io).
+Play the Taboo mod in Colab [here](https://github.com/JonathanFly/AIDungeon/blob/taboo_dungeon/PlayTabooDungeon.ipynb).
 
 To play the game locally, it is recommended that you have an nVidia GPU with 12 GB or more of memory, and CUDA installed. If you do not have such a GPU, each turn can take a couple of minutes or more for the game to compose its response. To install and play locally:
 ```
