@@ -94,7 +94,7 @@ def taboo_instructions():
     text += '\n  BEWARE: Using any form of a TABOO word is TABOO!'
     text += '\n  If you\'d like to skip your target word you can use the pass command:'
     text += '\n\n  "pass"     Skip this Taboo card, lose ' + str(score_penalty_per_turn) + ' point'
-    text += '\n  (you will have to pass a lot in my experience!)
+    text += '\n  (you will have to pass a lot in my experience!)'
     return text
 
 def play_aidungeon_2():
