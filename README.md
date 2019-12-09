@@ -1,7 +1,7 @@
-# AIDungeon2
+# AIDungeon2: Taboo Special Edition
 
 ## The model for AI Dungeon2 is temporarily unavailable to download due to cost. We're working on a solution!
-
+## The model works now, you can run this with bittorrent (a bit slow) or you can copy the model file to your own Google Drive (recommended) 
 
 Read more about AIDungeon2 and how it was built [here](https://pcc.cs.byu.edu/2019/11/21/ai-dungeon-2-creating-infinitely-generated-text-adventures-with-deep-learning-language-models/).
 
@@ -28,6 +28,7 @@ Resources:
 * **Website**: [aidungeon.io](http://www.aidungeon.io/)
 * **Email**: aidungeon.io@gmail.com
 * **Twitter**: [@nickwalton00](https://twitter.com/nickwalton00), [@benjbay](https://twitter.com/benjbay)
+* **Twitter For Taboo Mod**: [@jonathanfly](https://twitter.com/jonathanfly)
 * **Reddit**: [r/AIDungeon](https://www.reddit.com/r/AIDungeon/)
 
 
